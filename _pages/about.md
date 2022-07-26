@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-⚠️ This site is currently under construction. ⚠️
+This site is currently under construction.
 
 Perhaps come back later to see more about Lloyd Fung?
 
