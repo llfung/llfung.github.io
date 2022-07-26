@@ -21,3 +21,7 @@ I completed an M.Eng. in Aeronautical Engineering at the [Department of Aeronaut
 In my PhD, I explored the collective behaviour of bottom-heavy algal species. He tackled the challenge of modelling the collective transport of motile organisms in a complex flow environment. My current focus is on extending the same method to describe the sedimentation of planktons in the ocean.
 
 To know more about my research, see [here](./publications.md). My Google Scholar page can be found on the left.
+
+Upcoming Talks/Visits/Conferences/Outreach:
+========
+1. Aug 28th - Sept 2nd, 2022: [From Stokesian suspension dynamics to particulate flows in turbulence](https://iutamsymposium.sciencesconf.org) (Toulouse, France)
