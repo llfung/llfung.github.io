@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr Fung's personal website."
+title: "Welcome to Dr Fung's group website."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,8 @@ redirect_from:
 ⚠️ This site is currently under construction. ⚠️
 
 Perhaps come back later to see more about Lloyd Fung?
+
+We are a small group of one person.
 
 About me
 ===========
