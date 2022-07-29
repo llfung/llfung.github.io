@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<u>We are a small group of one person, but we have BIG dream.</u>
+
 ⚠️ This site is currently under construction. ⚠️
 
 Perhaps come back later to see more about Lloyd Fung?
-
-We are a small group of one person.
 
 About me
 ===========
