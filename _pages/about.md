@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<u>We are a small group of one person, but we have BIG dream.</u>
+<u>We are currently a small group of one person, but we have BIG dreams.</u>
 
 ⚠️ This site is currently under construction. ⚠️
 

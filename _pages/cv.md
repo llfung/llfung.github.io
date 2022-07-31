@@ -9,32 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* Research Fellow at Peterhouse, U of Cambridge
+  * Attached to the Mathematical Biology group at the Department of Applied Mathematics and Theoretical Physics (DAMTP), Centre for Mathematical Sciences
+  * Supervisors: [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/), [Dr Eric Lauga](https://www.damtp.cam.ac.uk/user/lauga/)
+  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Eng. in Aeronautical Engineering (with a Year in Industry), Imperial College London, 2017 (1st Hon.)
+* Ph.D in Aeronautics Research, Imperial College London, 2022
 
-Work experience
+Other industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2015: Rolly-Royce, Plc. (Aerospace)
+  * Stress Engineer at Rotatives
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Cummins Turbo Technology (Automatives)
+  * Engineer at Advance Engineering (Future Projects)
+
+* Summer 2016: Imperial Consultant (Civil Engineer)
+  * Research consulatant for a project in next-gen railway and tunneling technology
   
-Skills
+Scholarships, Awards and Funds
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021-24: Research Fellowship, Peterhouse
+* 2017-21: President's PhD Scholarship, Imperial College London
+* 2012-17: BeiShanTang Foundation Scholarship
+* 2015: Aeronautics Scholar, Dept. of Aeronautics, ICL
+* 2013: Silver Award for Excellence, Dept. of Aeronautics, ICL
+* 2013: IET London's Youth Professionals Challenge
+* 2013: IC Startups Venture Catalyst Challenge
 
 Publications
 ======
@@ -53,7 +58,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
