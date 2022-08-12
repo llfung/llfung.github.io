@@ -2,7 +2,7 @@
 title: "Tutorial for Fluid IB"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2022-spring-teaching-1.md
+permalink: /teaching/2022-spring-teaching-1
 venue: "Centre for Mathematical Sciences, U of Cambridge"
 date: 2022-01-01
 location: "Cambridge, UK"
