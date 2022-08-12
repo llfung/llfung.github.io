@@ -4,7 +4,7 @@ collection: teaching
 type: "Markings"
 permalink: /teaching/2020-marking-1
 venue: "Imperial College London, Department of Aeronautics"
-date: 2020
+date: 2020-01-01
 location: "London, UK"
 ---
 
