@@ -10,6 +10,7 @@ location: "Cambridge, UK"
 
 Small class tutorial for the second year fluid dynamics module in the UG programme in applied mathematics.
 
+Syllabus
 ======
 * Conservation of mass and momentum
 * Incompressible and irrotational flow
