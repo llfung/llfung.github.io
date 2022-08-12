@@ -18,7 +18,6 @@ Syllabus
 * Lift and Drag
   * Circulation
 * Laminar and turbulent flow
-* 
 
 Teaching Format
 ======

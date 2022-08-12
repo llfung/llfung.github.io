@@ -4,7 +4,7 @@ collection: teaching
 type: "Supervision"
 permalink: /teaching/2018-2020-supervision-1
 venue: "Imperial College London, Department of Aeronautics"
-date: 2018-2020
+date: 2018
 location: "London, UK"
 ---
 
