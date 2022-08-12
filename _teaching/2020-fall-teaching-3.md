@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2020-fall-teaching-3
 venue: "Imperial College London, Department of Aeronautics"
-date: 2020
+date: 2020-10-01
 location: "London, UK"
 ---
 
