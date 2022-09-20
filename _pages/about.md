@@ -26,4 +26,4 @@ To know more about my research, see [here](./publications.md). My Google Scholar
 
 Upcoming Talks/Visits/Conferences/Outreach:
 ========
-1. Aug 28th - Sept 2nd, 2022: [From Stokesian suspension dynamics to particulate flows in turbulence](https://iutamsymposium.sciencesconf.org) (Toulouse, France)
+1. Nov 18, 2022 (2pm): Fluid Dynamics Seminars at Imperial College London Dept. of Maths. (London, UK)
