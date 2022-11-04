@@ -26,4 +26,4 @@ To know more about my research, see [here](./publications.md). My Google Scholar
 
 Upcoming Talks/Visits/Conferences/Outreach:
 ========
-1. Nov 18, 2022 (2pm): Fluid Dynamics Seminars at Imperial College London Dept. of Maths. (London, UK)
+1. Nov 18, 2022 (2pm): [Fluid Dynamics Seminars](https://www.imperial.ac.uk/events/152267/lloyd-fung/) at Imperial College London Dept. of Maths. (London, UK)
