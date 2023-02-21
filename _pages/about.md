@@ -26,4 +26,4 @@ To know more about my research, see [here](./publications.md). My Google Scholar
 
 Upcoming Talks/Visits/Conferences/Outreach:
 ========
-1. Nov 18, 2022 (2pm): [Fluid Dynamics Seminars](https://www.imperial.ac.uk/events/152267/lloyd-fung/) at Imperial College London Dept. of Maths. (London, UK)
+1. April 3-5, 2023: [BAMC 2023](https://rise.articulate.com/share/m_8PV5egFfp51rbRhApK6GtC3ZkRGmpN#/) at UWE, Bristol. (Bristol, UK)
