@@ -3,6 +3,8 @@ title: "Instability of Tilted Shear Flow in a Strongly Stratified and Viscous Me
 collection: publications
 permalink: /publication/2022-07-01-Instability-of-Tilted-Shear-Flow-in-a-Strongly-Stratified-and-Viscous-Medium
 date: 2022-07-01
-venue: 'the proceedings of IUTAM Laminar-Turbulent Transition'
+venue: 'In the proceedings of IUTAM Laminar-Turbulent Transition'
+paperurl: '10.1007/978-3-030-67902-6_33'
+citation: ' Lloyd Fung,  Yongyun Hwang, &quot;Instability of Tilted Shear Flow in a Strongly Stratified and Viscous Medium.&quot; In the proceedings of IUTAM Laminar-Turbulent Transition, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Instability+of+Tilted+Shear+Flow+in+a+Strongly+Stratified+and+Viscous+Medium){:target="_blank"} for full citation
+[Access paper here](https://doi.org/10.1007/978-3-030-67902-6_33){:target="_blank"}

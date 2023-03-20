@@ -40,7 +40,14 @@ publist = {
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
-    } 
+    },
+    "preprint":{
+        "file": "preprint.bib",
+        "venuekey" : "publisher",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+    }     
 }
 
 html_escape_table = {
@@ -106,7 +113,13 @@ for pubsource in publist:
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
-            venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            if "journal" == pubsource:
+                venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            if "proceeding" == pubsource:
+                venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            elif "preprint" == pubsource:
+                venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+
 
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
@@ -134,6 +147,18 @@ for pubsource in publist:
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
+            
+            doi = False
+            if "doi" in b.keys():
+                if len(str(b["doi"])) > 5:
+                    md += "\npaperurl: '" + b["doi"] + "'"
+                    doi = True
+
+            arXivID = False
+            if "eprint" in b.keys():
+                if len(str(b["eprint"])) > 5:
+                    md += "\npaperurl: '" + b["eprint"].replace("{", "").replace("}","").replace("\\","").replace("arXiv:","") + "'"
+                    arXivID = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
@@ -146,6 +171,10 @@ for pubsource in publist:
 
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+            elif doi:
+                md += "\n[Access paper here](https://doi.org/" + b["doi"] + "){:target=\"_blank\"}\n" 
+            elif arXivID:
+                md += "\n[Access paper here](https://arxiv.org/abs/" + b["eprint"].replace("{", "").replace("}","").replace("\\","").replace("arXiv:","") + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
