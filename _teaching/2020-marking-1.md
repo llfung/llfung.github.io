@@ -17,3 +17,6 @@ Syllabus
 * Vectorisation and Parallelism
   * OpenMP and MPI
 
+Dates
+=====
+In Spring 2020.
