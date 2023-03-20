@@ -49,8 +49,8 @@ layout: default
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %} -->
         {% if page.abstract and page.paperurl %}
-          <p><u>Abstract:</u> {{ page.abstract }} <a href="{{ page.paperurl }}"></p>
-          <p>Access paper here/a></p>
+          <p><u>Abstract:</u> {{ page.abstract }}</p>
+          <p><a href="{{ page.paperurl }}">Access paper here</a></p>
         {% elsif page.citation %}
           <p><a href="{{ page.paperurl }}">Access paper here</a> </p>
         {% endif %}
