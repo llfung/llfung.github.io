@@ -3,8 +3,8 @@ title: "Instability of Tilted Shear Flow in a Strongly Stratified and Viscous Me
 collection: publications
 permalink: /publication/2022-07-01-Instability-of-Tilted-Shear-Flow-in-a-Strongly-Stratified-and-Viscous-Medium
 date: 2022-07-01
-venue: 'In the proceedings of IUTAM Laminar-Turbulent Transition'
-paperurl: '10.1007/978-3-030-67902-6_33'
-citation: ' Lloyd Fung,  Yongyun Hwang, &quot;Instability of Tilted Shear Flow in a Strongly Stratified and Viscous Medium.&quot; In the proceedings of IUTAM Laminar-Turbulent Transition, 2022.'
+venue: 'the proceedings of IUTAM Laminar-Turbulent Transition'
+paperurl: 'https://doi.org/10.1007/978-3-030-67902-6_33'
+abstract: 'It is well known that stratification can stabilise shear flow. In a vertical shear flow, the Miles-Howard&apos;s criterion firmly indicates that flow should be stable if the local Richardson number is greater than one fourth. However, if shear is tilted with a non-zero angle from vertical, an instability can arise even under very strong stratification, and such an instability was recently observed in a titled wake flow at low Reynolds number (Meunier 2012, J. Fluid Mech., 699:174). In the present study, we showed that in the limit of low Froude number and low Reynolds number, the linearised equations of motion could be reduced to the Orr-Sommerfeld equation on the horizontal plane, except the viscous term that contains vertical dissipation. Based on this equation, it is demonstrated that the low-Froude-number mode would be a horizontal inflectional instability, and should remain two dimensional at small tilting angles. It is further shown that the emergence of small vertical velocity at finite Froude number modifies the horizontal inflectional instability and leads to paradoxically stabilising buoyancy force on increasing Froude number. Finally, an absolute instability analysis is performed, revealing qualitatively good agreement with the experimental result.'
+citation: ' Lloyd Fung,  Yongyun Hwang, &quot;Instability of Tilted Shear Flow in a Strongly Stratified and Viscous Medium.&quot; the proceedings of IUTAM Laminar-Turbulent Transition, 2022.'
 ---
-[Access paper here](https://doi.org/10.1007/978-3-030-67902-6_33){:target="_blank"}

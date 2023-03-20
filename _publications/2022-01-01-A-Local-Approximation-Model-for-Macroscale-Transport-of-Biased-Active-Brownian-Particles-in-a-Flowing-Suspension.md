@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-01-01-A-Local-Approximation-Model-for-Macroscale-Transport-of-Biased-Active-Brownian-Particles-in-a-Flowing-Suspension
 date: 2022-01-01
 venue: 'Journal of Fluid Mechanics'
-paperurl: '10.1017/jfm.2022.10'
+paperurl: 'https://doi.org/10.1017/jfm.2022.10'
+abstract: 'A dilute suspension of motile microorganisms subjected to a strong ambient flow, such as algae in the ocean, can be modelled as a population of non-interacting, orientable active Brownian particles (ABPs). Using the Smoluchowski equation (i.e. Fokkertextendash Planck equation in space and orientation), one can describe the non-trivial transport phenomena of ABPs such as taxis and shear-induced migration. This work transforms the Smoluchowski equation into a transport equation, in which the drifts and dispersions can be further approximated as a function of the local flow field. The new model can be applied to any global flow field due to its local nature, unlike previous methods such as those utilising the generalised Taylor dispersion theory. The transformation shows that the overall drift includes both the biased motility of individual particles in the presence of taxis and the shear-induced migration in the absence of taxis. In addition, it uncovers other new drifts and dispersions caused by the interactions between the orientational dynamics and the passive advectiontextendash diffusion of ABPs. Finally, the performance of this model is assessed using examples of gyrotactic suspensions, where the proposed model is demonstrated to be most accurate when the biased motility of particles (i.e. taxis) is weak.'
 citation: ' Lloyd Fung,  Rachel Bearon,  Yongyun Hwang, &quot;A Local Approximation Model for Macroscale Transport of Biased Active Brownian Particles in a Flowing Suspension.&quot; Journal of Fluid Mechanics, 2022.'
 ---
-[Access paper here](https://doi.org/10.1017/jfm.2022.10){:target="_blank"}

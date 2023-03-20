@@ -151,14 +151,19 @@ for pubsource in publist:
             doi = False
             if "doi" in b.keys():
                 if len(str(b["doi"])) > 5:
-                    md += "\npaperurl: '" + b["doi"] + "'"
+                    md += "\npaperurl: 'https://doi.org/" + b["doi"] + "'"
                     doi = True
 
             arXivID = False
             if "eprint" in b.keys():
                 if len(str(b["eprint"])) > 5:
-                    md += "\npaperurl: '" + b["eprint"].replace("{", "").replace("}","").replace("\\","").replace("arXiv:","") + "'"
+                    md += "\npaperurl: 'https://arxiv.org/abs/" + b["eprint"].replace("{", "").replace("}","").replace("\\","").replace("arXiv:","") + "'"
                     arXivID = True
+            abs = False
+            if "abstract" in b.keys():
+                if len(str(b["abstract"])) > 5:
+                    md += "\nabstract: '" + html_escape(b["abstract"].replace("{", "").replace("}","").replace("\\","")) + "'"
+                    abs = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
@@ -169,14 +174,14 @@ for pubsource in publist:
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            elif doi:
-                md += "\n[Access paper here](https://doi.org/" + b["doi"] + "){:target=\"_blank\"}\n" 
-            elif arXivID:
-                md += "\n[Access paper here](https://arxiv.org/abs/" + b["eprint"].replace("{", "").replace("}","").replace("\\","").replace("arXiv:","") + "){:target=\"_blank\"}\n" 
-            else:
-                md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+            # if url:
+            #     md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+            # elif doi:
+            #     md += "\n[Access paper here](https://doi.org/" + b["doi"] + "){:target=\"_blank\"}\n" 
+            # elif arXivID:
+            #     md += "\n[Access paper here](https://arxiv.org/abs/" + b["eprint"].replace("{", "").replace("}","").replace("\\","").replace("arXiv:","") + "){:target=\"_blank\"}\n" 
+            # else:
+            #     md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
 
