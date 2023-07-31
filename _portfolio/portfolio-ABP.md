@@ -1,6 +1,5 @@
 ---
 title: "Continuum modelling of Active Brownian Particles (ABP)"
-excerpt: "Parameterising the orientation of an Active Brownian Particle<br/><img src='/images/spheroid.svg'>"
 collection: portfolio
 ---
 
