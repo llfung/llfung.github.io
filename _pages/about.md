@@ -14,5 +14,5 @@ I completed an M.Eng. in Aeronautical Engineering at the [Department of Aeronaut
 
 In my PhD, I explored the collective behaviour of bottom-heavy algal species. He tackled the challenge of modelling the collective transport of motile organisms in a complex flow environment. Lately, I have extended the method to the sedimentation of planktons or other spheroidal objects.
 
-To know more about my research, see [here](./research.md). My Google Scholar page can be found on the left.
+To know more about my research, see [here](portfolio). My Google Scholar page can be found on the left.
 
