@@ -16,3 +16,7 @@ In my PhD, I explored the collective behaviour of bottom-heavy algal species. He
 
 To know more about my research, see [here](portfolio). My Google Scholar page can be found on the left.
 
+Upcoming Talks/Visits/Conferences/Outreach:
+========
+1. June 17-18, 2024: [BioActive Fluids & Non-Newtonian Fluid Mechanics Joint SIG Meeting](https://sites.google.com/view/bioactive-fluids/2024-joint-meeting-home-bioactive-non-newtonian-fluids) at UCL. (London, UK)
+2. June 19, 2024: [Mathematical Biology Seminar](https://www.ucl.ac.uk/maths/mathematical-biology-meetings) at UCL. (John Adams Hall - G25, UCL, London, UK)
