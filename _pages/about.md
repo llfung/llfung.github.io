@@ -22,3 +22,4 @@ Upcoming Talks/Visits/Conferences/Outreach:
 ========
 1. Aug 8, 2024: Research Visit to the Math. Department at the University of York (York, UK).
 2. Aug 9, 2024: [NFFDy Summer Programmer](https://nffdy8.wordpress.com/nffdy-summer-programme-2024/) (Leeds, UK).
+3. Sept 9-10, 2024: [London Mathematical Biology Conference](https://www.crick.ac.uk/whats-on/london-mathematical-biology-conference) at the Francis Crisk Institute (London, UK)
