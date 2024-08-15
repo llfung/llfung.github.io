@@ -10,7 +10,9 @@ redirect_from:
 Welcome! I am a fluid dynamicist working on various topics in biological fluid dynamics. I specialise in the continuum modelling of dilute active suspensions and their pattern formation. 
 I am currently a Research Fellow at [Peterhouse](https://www.pet.cam.ac.uk), working with [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/) at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk), Cambridge.
 Lately, I am also increasing interested in equation discovery and data assimilation in complex fluid problems.
+
 <u>Update 1st April,2024:</u> I have joint the [Alan Turing Institute](https://www.turing.ac.uk/people/lloyd-fung) and [Prof. Matthew Juniper](https://mpj1001.user.srcf.net/MJ_biography.html) in extending the [Turing.jl](https://turinglang.org) framework for assimilating data in large PDEs, such as those governing complex fluids and various collective behaviour in biology and ecology.
+
 <u>Update 15 Aug,2024:</u> I will be starting a new position as a [Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://ix.imperial.ac.uk/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellow-a-program-of-schmidt-futures/) at Imperial College London starting from 1st Oct, 2024. Stay tune to see my latest work!
 
 ## My background
@@ -21,6 +23,7 @@ In my PhD, I explored the collective behaviour of bottom-heavy algal species. He
 ## My work
 To know more about my research, see [here](portfolio). My Google Scholar page can be found on the left.
 
-## Upcoming Talks/Visits/Conferences/Outreach:
-========
-1. Sept 9-10, 2024: [London Mathematical Biology Conference](https://www.crick.ac.uk/whats-on/london-mathematical-biology-conference) at the Francis Crisk Institute (London, UK)
+## Upcoming Talks/Visits/Conferences/Outreach
+1. Aug 27-30, 2024: [NWTF PIV Workshop](https://www.nwtf.ac.uk/event/piv-training-workshop/) at the U of Southampton (Southampton, UK)
+2. Sept 9-10, 2024: [London Mathematical Biology Conference](https://www.crick.ac.uk/whats-on/london-mathematical-biology-conference) at the Francis Crisk Institute (London, UK)
+3. Sept 23, 2024: [C2D3 ECR and Student Conference](https://www.c2d3.cam.ac.uk/events/c2d3-ecr-and-student-conference) at the Maxwell Centre, U of Cambridge. (Cambridge, UK)
