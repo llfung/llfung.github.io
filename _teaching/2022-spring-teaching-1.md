@@ -25,4 +25,5 @@ Small-class tutorial to go through problem sheets set by lecturer, with in-depth
 
 Dates
 =====
-From 2022 till now.
+* 2022 Spring
+* 2024 Spring
