@@ -57,6 +57,3 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talk and Workshops highlights
-  <ul>{% post = 2024-08-09-workshop-2 %}
-    {% include archive-single-cv.html %}</ul>
