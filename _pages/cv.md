@@ -11,9 +11,15 @@ redirect_from:
 
 Employment
 ======
-* Research Fellow at Peterhouse, U of Cambridge
+* 2024-    : [Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://ix.imperial.ac.uk/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellow-a-program-of-schmidt-futures/) at Imperial College London
+  * Attached to the Department of Aeronautics
+  * Supervisor: [Prof. Luca Magri](https://magrilab.ae.ic.ac.uk/)
+* 2024-2024: [Research Associate](https://www.turing.ac.uk/people/lloyd-fung) at the Alan Turing Institute
+  * Attached to the Department of Engineering, the U of Cambridge
+  * Supervisor: [Prof. Matthew Juniper](https://mpj1001.user.srcf.net/MJ_biography.html)
+* 2021-2024: [Research Fellow](https://www.pet.cam.ac.uk/person/fung) at Peterhouse, U of Cambridge
   * Attached to the Mathematical Biology group at the Department of Applied Mathematics and Theoretical Physics (DAMTP), Centre for Mathematical Sciences
-  * Supervisors: [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/), [Dr Eric Lauga](https://www.damtp.cam.ac.uk/user/lauga/)
+  * Supervisors: [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/), [Prof. Eric Lauga](https://www.damtp.cam.ac.uk/user/lauga/)
   
 Education
 ======
@@ -33,8 +39,9 @@ Other industry experience
   
 Scholarships, Awards and Funds
 ======
-* 2021-24: Research Fellowship, Peterhouse
-* 2017-21: President's PhD Scholarship, Imperial College London
+* 2024-28: [Imperial College Research Fellowship](https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/research-fellowships/icrf/), [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://ix.imperial.ac.uk/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellow-a-program-of-schmidt-futures/)
+* 2021-24: [Peterhouse Research Fellow](https://www.pet.cam.ac.uk/person/fung)
+* 2017-21: [Imperial College President's PhD Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/)
 * 2012-17: BeiShanTang Foundation Scholarship
 * 2015: Aeronautics Scholar, Dept. of Aeronautics, ICL
 * 2013: Silver Award for Excellence, Dept. of Aeronautics, ICL
@@ -59,8 +66,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!---
-Service and leadership
+Community and Research Culture
 ======
-* Currently signed in to 43 different slack teams
---->
+* Active member of the [BioActive Fluids SIG](https://sites.google.com/view/bioactive-fluids)
+  * Organising committee of BioActive Fluids SIG ECR-only seminar series (2023-24)
+* Co-organiser of the [DAMTP Biolunch seminar series](http://talks.cam.ac.uk/show/index/17887) (2023-24)
+* Regular reviewer for the Journal of Fluid Mechanics, Physical Review Fluids, Water Resource Research ([see ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-1775-5093)).
