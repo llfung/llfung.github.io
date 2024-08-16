@@ -58,7 +58,7 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Talks Highlights
-  <ul>{% for post in site.talk %}
+  <ul>{% for post in site.talks %}
     {{ post }}
     {{ post.type }}
     {% if post.type == "Workshops" %}
