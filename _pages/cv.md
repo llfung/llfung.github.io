@@ -57,10 +57,8 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talks Highlights
+## Highlighted talks and workshops
   <ul>{% for post in site.talks %}
-    {{ post }}
-    {{ post.type }}
     {% if post.type == "Workshops" %}
       {% include archive-single-talk-cv.html %}
     {% endif %}
