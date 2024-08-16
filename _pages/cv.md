@@ -59,8 +59,8 @@ redirect_from:
 
 ## Talks Highlights
   <ul>{% for post in site.talk %}
-    {% echo post %}
-    {% echo post.type %}
+    {{ post }}
+    {{ post.type }}
     {% if post.type == "Workshops" %}
       {% include archive-single-talk-cv.html %}
     {% endif %}
