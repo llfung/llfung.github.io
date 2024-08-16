@@ -59,7 +59,7 @@ redirect_from:
 
 ## Talks Highlights
   <ul>{% for post in site.talk %}
-    {% if post.type=="Workshops"}
+    {% if post.type == "Workshops"}
       {% include archive-single-talk-cv.html %}
     {% endif %}
   {% endfor %}</ul>
