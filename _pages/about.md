@@ -23,7 +23,3 @@ In my PhD, I explored the collective behaviour of bottom-heavy algal species. He
 ## My work
 To know more about my research, see [here](portfolio). My Google Scholar page can be found on the left.
 
-## Upcoming Talks/Visits/Conferences/Outreach
-1. Aug 27-30, 2024: [NWTF PIV Workshop](https://www.nwtf.ac.uk/event/piv-training-workshop/) at the U of Southampton (Southampton, UK)
-2. Sept 9-10, 2024: [London Mathematical Biology Conference](https://www.crick.ac.uk/whats-on/london-mathematical-biology-conference) at the Francis Crisk Institute (London, UK)
-3. Sept 23, 2024: [C2D3 ECR and Student Conference](https://www.c2d3.cam.ac.uk/events/c2d3-ecr-and-student-conference) at the Maxwell Centre, U of Cambridge. (Cambridge, UK)
