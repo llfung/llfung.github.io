@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Employment
-* 2024-    : [Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://ix.imperial.ac.uk/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellow-a-program-of-schmidt-futures/) at Imperial College London
-  * Attached to the Department of Aeronautics
+* 2024-    : [Imperial College Research Fellow](https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/research-fellowships/icrf/) at Imperial College London
+  * Attached to the [Department of Aeronautics](https://www.imperial.ac.uk/aeronautics) and [IX](https://ix.imperial.ac.uk)
   * Supervisor: [Prof. Luca Magri](https://magrilab.ae.ic.ac.uk/)
 * 2024-2024: [Research Associate](https://www.turing.ac.uk/people/lloyd-fung) at the Alan Turing Institute
   * Attached to the Department of Engineering, the U of Cambridge

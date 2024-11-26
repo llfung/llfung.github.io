@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Lloyd Fung"
 title_separator          : "-"
 name                     : &name "Lloyd Fung"
-description              : &description "Research Fellow at DAMTP, Cambridge"
+description              : &description "Research Fellow at Imperial College London"
 url                      : https://llfung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "llfung.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lloyd Fung"
   avatar           : "profile.jpg"
-  bio              : "JRF, DAMTP, University of Cambridge"
-  location         : "Cambridge, UK"
+  bio              : "ICRF, Aeronautics / IX, Imperial College London"
+  location         : "London / Cambridge, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=JDoL5RMAAAAJ"
