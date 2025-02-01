@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome! I am a fluid dynamicist with a strong interest in data-driven methodologies and biologically-motivated fluid dynamics. 
-Currently, I am a [Research Fellow](https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/research-fellowships/icrf/) at Imperial College London, working closely with [Prof. Luca Magri](https://magrilab.ae.ic.ac.uk/) at the Aeronautics department on scientific machine learning. I am also a [Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://ix.imperial.ac.uk/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellow-a-program-of-schmidt-futures/) at the [IX](https://ix.imperial.ac.uk), an AI initiatives of Imperial.
+Currently, I am a [Research Fellow](https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/research-fellowships/icrf/) at Imperial College London, working closely with [Prof. Luca Magri](https://magrilab.ae.ic.ac.uk/) at the Aeronautics department on scientific machine learning. I am also a Fellow at the [IX](https://ix.imperial.ac.uk), an AI initiatives of Imperial funded by [Schmidt Sciences](https://www.schmidtsciences.org).
 
 ## My background
 I completed an M.Eng. in Aeronautical Engineering at the [Department of Aeronautics of Imperial College London](https://www.imperial.ac.uk/aeronautics) in 2017, with a year in industry working at Rolls-Royce. Funded by the President's scholarship of Imperial, I continued to pursue a PhD in the same department under the supervision of [Dr Yongyun Hwang](https://www.itpfg-hwang.group), and graduated in 2021 with a thesis on the continuum modelling of dilute active suspensions and their pattern formation. After that, I was elected as a Research Fellow at [Peterhouse](https://www.pet.cam.ac.uk), during which I worked with [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/) at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk), Cambridge, on the fluid mechanics of cell motility in Stokes flow, collective dynamics of motile cells as a result of motility, and continuum modelling of dilute active suspensions and their pattern formation.
@@ -19,4 +19,5 @@ My current research focuses on Bayesian model discovery and data assimilation, b
 
 ## My work
 To know more about my research, see [here](portfolio). My Google Scholar page can be found on the left.
+
 
