@@ -20,4 +20,6 @@ My current research focuses on Bayesian model discovery and data assimilation, b
 ## My work
 To know more about my research, see [here](portfolio). My Google Scholar page can be found on the left.
 
-
+## Upcoming Talks/Visits/Conferences/Outreach
+1. April 2-4, 2024: [Data-driven fluid mechanics](https://629.euromech.org/629/) at Imperial College London (London, UK)
+3. May 11-15, 2025: [SIAM Conference on Applications of Dynamical Systems (DS25)]([https://www.crick.ac.uk/whats-on/london-mathematical-biology-conference](https://www.siam.org/conferences-events/siam-conferences/ds25/)) (Denver, Colorado, US)
