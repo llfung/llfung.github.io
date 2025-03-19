@@ -25,7 +25,7 @@ redirect_from:
 * Ph.D in Aeronautics Research, Imperial College London, 2022
 
 ## Other industry experience
-* 2014-2015: Roll-Royce, Plc. (Aerospace)
+* 2014-2015: Rolls-Royce, Plc. (Aerospace)
   * Stress Engineer at Rotatives
 
 * Summer 2015: Cummins Turbo Technology (Automatives)
