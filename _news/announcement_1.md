@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am organising [a workshop on symbolic model discovery](https://www.symbolicmodel.org) on 22-23 Sept, 2025 at the [IX](https://ix.imperial.ac.uk/event/symbolic-models-discovery-from-time-series-data-workshop).
+
+Check out the details and register for the workshop on [www.symbolicmodel.org](https://www.symbolicmodel.org)!

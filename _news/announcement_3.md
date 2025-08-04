@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-08-04
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+For the coming academic year, I am going to organise the Aerodynamics and Control Seminar series at the Department of Aeronautics of Imperial College London. Do get in touch (see ORCiD) if you're interested in coming to give a talk on relevant subjects!
