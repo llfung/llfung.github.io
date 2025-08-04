@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-am-organising-a-workshop-on-symbolic-model-discovery-on-22-23-sept-2025-at-the-ix-check-out-the-details-and-register-for-the-workshop-on-www-symbolicmodel-org",
+          title: 'I am organising a workshop on symbolic model discovery on 22-23 Sept, 2025...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-odr-bindy-release",
+          title: 'ODR-BINDy release!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-for-the-coming-academic-year-i-am-going-to-organise-the-aerodynamics-and-control-seminar-series-at-the-department-of-aeronautics-of-imperial-college-london-do-get-in-touch-see-orcid-if-you-re-interested-in-coming-to-give-a-talk-on-relevant-subjects",
+          title: 'For the coming academic year, I am going to organise the Aerodynamics and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
