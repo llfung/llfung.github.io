@@ -2,10 +2,12 @@
 layout: page
 title: Symbolic Model Discovery
 description: Discovering governing equation from temporal observation of the states
-img: assets/img/3.jpg
+img: 
 importance: 2
 category: ML
 related_publications: true
 ---
 
-Something about B-SINDy and ODR-BINDy @Fung2025a.
+(Under construction)
+
+To find our latest work on the subject, check out our paper on B-SINDy {% cite Fung2025 %} and ODR-BINDy {% cite Fung2025a %}.

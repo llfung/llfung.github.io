@@ -2,7 +2,7 @@
 layout: page
 title: "Adjoint-accelerated Programmable Inference for Large PDEs"
 description: "Enabling Adjoint in Probabilistic Programming Language Turing.jl"
-img: assets/img/12.jpg
+img: assets/img/turing-logo.svg
 importance: 1
 category: ML
 ---
