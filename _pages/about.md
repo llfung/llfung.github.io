@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.imperial.ac.uk'>Imperial College Research Fellow</a> | <a href='https://ix.imperial.ac.uk/our-people'>IX 'AI in Science' Fellow</a>
 
