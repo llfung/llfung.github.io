@@ -30,7 +30,7 @@ nav_order: 3
 ## project supervision
 
 - Final Year Project / Individual Research Project / Major Individual Research Project (Imperial Aeronautics, UG Yr 4 + PG, 2018-2021 and 2025)
-  - Co-supervised 8+ students
+  - Co-supervised 6 students
   - Sole-supervised 1 student in 2025
 - Individual Project (Imperial Mathematics (Stat), PG, 2025)
   - co-supervised 1 student (leading)
