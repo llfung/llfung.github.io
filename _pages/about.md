@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://www.imperial.ac.uk'>Imperial College Research Fellow</a> | <a href='https://ix.imperial.ac.uk/our-people'>IX 'AI in Science' Fellow</a>
 
@@ -30,7 +30,7 @@ latest_posts:
 Welcome! I am a machine learning and fluid dynamics researcher with a strong interest in data assimilation in complex fluid problems, data-driven discovery of symbolic models and complex fluid phenomena. 
 Currently, I am a [Research Fellow](https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/research-fellowships/icrf/) at Imperial College London, working closely with [Prof. Luca Magri](https://magrilab.ae.ic.ac.uk/) at the Aeronautics department on scientific machine learning and its interface with traditional data assimilation and numerical methods. I am also a Fellow at the [Schmidt Sciences](https://www.schmidtsciences.org) funded AI in Science programme at the [IX](https://ix.imperial.ac.uk), an AI initiatives of Imperial.
 
-## My background
+## my background
 I completed an M.Eng. in Aeronautical Engineering at the [Department of Aeronautics of Imperial College London](https://www.imperial.ac.uk/aeronautics) in 2017, with a year in industry working at Rolls-Royce. Funded by the President's scholarship of Imperial, I continued to pursue a PhD in the same department under the supervision of [Dr Yongyun Hwang](https://www.itpfg-hwang.group), and graduated in 2021 with a thesis on the continuum modelling of dilute active suspensions and their pattern formation. After that, I was elected as a Research Fellow at [Peterhouse](https://www.pet.cam.ac.uk), during which I worked with [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/) at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk), Cambridge, on the fluid mechanics of cell motility in Stokes flow, collective dynamics of motile cells as a result of motility, and continuum modelling of dilute active suspensions and their pattern formation.
 
 Lately, I have started gaining interest in applying data-driven techniques from recent advancements in machine learning to fluid and control problems.
