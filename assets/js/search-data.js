@@ -430,14 +430,14 @@ ninja.data = [{
             },},{id: "news-for-the-coming-academic-year-i-am-going-to-organise-the-aerodynamics-and-control-seminar-series-at-the-department-of-aeronautics-of-imperial-college-london-do-get-in-touch-see-orcid-if-you-re-interested-in-coming-to-give-a-talk-on-relevant-subjects",
           title: 'For the coming academic year, I am going to organise the Aerodynamics and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-adjoint-accelerated-programmable-inference-for-large-pdes",
+          title: 'Adjoint-accelerated Programmable Inference for Large PDEs',
+          description: "Enabling Adjoint in Probabilistic Programming Language Turing.jl",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-symbolic-model-discovery",
+          title: 'Symbolic Model Discovery',
+          description: "Discovering governing equation from temporal observation of the states",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
