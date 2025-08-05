@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "I can teach any 1st and 2nd year engineering courses, but my main teaching is in Fluids, Numerics and Machine Learning.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
