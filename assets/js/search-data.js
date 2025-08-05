@@ -442,37 +442,37 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-nn-vs-fem",
           title: 'NN vs FEM',
-          description: "Which is better at solving PDEs? We need to deep dive into representation theory.",
+          description: "Which method is better at solving PDEs? To understand that, We need a deep dive into representation theory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-recovering-hidden-states-by-esn-bindy",
+          title: 'Recovering Hidden States by ESN + BINDy',
+          description: "Classical BINDy/SINDy require observation of all states. Can we improve upon that?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-continuum-modelling-of-active-brownian-particles-abp",
+          title: 'Continuum modelling of Active Brownian Particles (ABP)',
+          description: "A better model than Pedley&#39;s 1992 classic and  Genearlized Taylor Dispersion, which does not generalise to arbitrary flow field.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-gyrotactic-plume-formation-and-bioconvection",
+          title: 'Gyrotactic plume formation and bioconvection',
+          description: "A series of work on gyrotactic plume gives new interpretation on the classical pattern that is bioconvection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-colonial-choanoflagellates-and-choanocytes-in-sponges",
+          title: 'Colonial Choanoflagellates and Choanocytes in sponges',
+          description: "Does the newly found colonial Choanoflagellates shed light on the origin of multicellular life?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-sedimentation-of-elongated-phytoplankton-in-the-ocean",
+          title: 'Sedimentation of elongated phytoplankton in the ocean',
+          description: "We found a singularity that focuses long, slender particle when they sink!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-hydrodynamic-interactions-from-low-to-high-reynolds-number",
+          title: 'Hydrodynamic interactions from low to high Reynolds number',
+          description: "Suspension sedimentation, but not Stokesian at phenomenlogical scale.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
