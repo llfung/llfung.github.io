@@ -24,16 +24,17 @@
       "position": "Imperial College Research Fellow",
       "startDate": "2024-10-01",
       "endDate": "2028-09-30",
-      "summary": "Flagship early-career research fellowship of Imperial College London. Also part of the [I-X Centre for AI in Science](I-X Centre for AI in Science)",
-      "highlights": ["Supervisor: [Prof. Luca Magri](https://magrilab.ae.ic.ac.uk/)", "Collaborators: [Dr Urban Fasel](https://www.urbanfasel.com), [Dr Davide Amato](https://profiles.imperial.ac.uk/d.amato)"]
+      "summary": "Flagship early-career research fellowship of Imperial College London. Also part of the I-X Centre for AI in Science",
+      "highlights": ["Supervisor: Prof. Luca Magri", "Collaborators: Dr Urban Fasel, Dr Davide Amato"]
     },
     {
       "name": "Alan Turing Institute",
       "position": "Research Associate",
       "startDate": "2024-04-01",
       "endDate": "2024-09-30",
-      "summary": "Flagship early-career research fellowship of Imperial College London. Also part of the [I-X Centre for AI in Science](I-X Centre for AI in Science)",
-      "highlights": ["Supervisor: [Prof. Matthew Juniper](https://mpj1001.user.srcf.net/MJ_biography.html)", "Attached to the Department of Engineering, the U of Cambridge"]
+      "url": "https://www.turing.ac.uk/research/research-projects/adjoint-accelerated-programmable-inference-large-pdes",
+      "summary": "PDRA for the Adjoint-accelerated Programmable Inference for Large PDEs project, which aims to incorporate adjoint method into the Probabilistic Programming framework Turing.jl such that it can be used to assimilate data into PDE models.",
+      "highlights": ["Supervisor: Prof. Matthew Juniper", "Attached to the Department of Engineering, the U of Cambridge"]
     },
     {
       "name": "Peterhouse, University of Cambridge",
@@ -41,7 +42,7 @@
       "startDate": "2021-10-01",
       "endDate": "2024-09-30",
       "summary": "Flagship early-career research fellowship of Imperial College London. Also part of the [I-X Centre for AI in Science](I-X Centre for AI in Science)",
-      "highlights": ["Attached to the Mathematical Biology group at the Department of Applied Mathematics and Theoretical Physics (DAMTP), Centre for Mathematical Sciences", "Supervisors: [Prof. Raymond Goldstein](http://www.damtp.cam.ac.uk/user/gold/), [Prof. Eric Lauga](https://www.damtp.cam.ac.uk/user/lauga/)"]
+      "highlights": ["Attached to the Mathematical Biology group at the Department of Applied Mathematics and Theoretical Physics (DAMTP), Centre for Mathematical Sciences", "Supervisors: Prof. Raymond Goldstein, Prof. Eric Lauga"]
     }
   ],
   "education": [
