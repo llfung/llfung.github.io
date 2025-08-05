@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "All my research projects, past, present and future ideas.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -440,9 +440,9 @@ ninja.data = [{
           description: "Discovering governing equation from temporal observation of the states",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-nn-vs-fem",
+          title: 'NN vs FEM',
+          description: "Which is better at solving PDEs? We need to deep dive into representation theory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
