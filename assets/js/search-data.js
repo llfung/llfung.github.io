@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a brief CV following the [JSON Resume standard](https://jsonresume.org). For the complete version, follow the link to the PDF.",
+          description: "This is a brief CV following the standard set by jsonresume.org. For the complete version, follow the link to the PDF.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
