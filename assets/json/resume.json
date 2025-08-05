@@ -74,7 +74,7 @@
     [
       {
         "name": "Associate Fellow of the Higher Education Academy (AFHEA)",
-        "date": "2020-10-14",
+        "date": "2020-10",
         "issuer": "Advance HE",
         "icon": "fa-solid fa-chalkboard-user"
       }
@@ -87,14 +87,35 @@
     },
     {
       "language": "Cantonese",
-      "fluency": "Fluent",
+      "fluency": "Native",
       "icon": ""
     }
   ],
   "interests": [
+        {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Physics-Informed Machine Learning",
+        "Data-Driven Modelling",
+        "Digital Twins",
+        "Data Assimilation",
+        "Sparse Identification of Nonlinear Dynamical Systems (SINDy)",
+        "Symbolic Model Discovery",
+        "Active Learning",
+        "Bayesian Inference",
+        "Physics-Informed Neural Networks",
+        "Information Theory",
+        "Causality",
+        "Neural ODEs",
+        "Echo State Networks",
+        "Reservoir Computing",
+        "Extreme Learning Machines"
+      ]
+    },
     {
       "name": "Fluid Dynamics",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-wind",
       "keywords": [
         "Low Reynolds Number Hydrodynamics",
         "Complex Fluids",
@@ -118,27 +139,6 @@
         "Active Matter",
         "Active Suspensions",
         "Active Brownian Particles"
-      ]
-    },
-    {
-      "name": "Machine Learning",
-      "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Physics-Informed Machine Learning",
-        "Data-Driven Modelling",
-        "Digital Twins",
-        "Data Assimilation",
-        "Sparse Identification of Nonlinear Dynamical Systems (SINDy)",
-        "Symbolic Model Discovery",
-        "Active Learning",
-        "Bayesian Inference",
-        "Physics-Informed Neural Networks",
-        "Information Theory",
-        "Causality",
-        "Neural ODEs",
-        "Echo State Networks",
-        "Reservoir Computing",
-        "Extreme Learning Machines"
       ]
     }
   ],
