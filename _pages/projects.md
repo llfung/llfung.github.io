@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: All my research projects, past, present and future ideas.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [ML, "Bio-Active Fluids"]
 horizontal: false
 ---
 

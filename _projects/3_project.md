@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: NN vs FEM
+description: "Which is better at solving PDEs? We need to deep dive into representation theory."
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: ML
 ---
 
 Every project has a beautiful feature showcase page.
