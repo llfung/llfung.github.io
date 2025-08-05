@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: I can teach any 1st and 2nd year engineering courses, but my main teaching is in Fluids, Numerics and Machine Learning.
 nav: true
 nav_order: 3
 ---
@@ -20,15 +20,16 @@ nav_order: 3
 
 ## "Supervision" (small class tutorial, groups of two)
 
-- Fluids 1B (Cambridge Mathematics, UG Yr 2, 2020, 2022) 
+- Fluids 1B (Cambridge Mathematics, UG Yr 2, 2020 and 2022) 
+  - Sole-supervised 5 students
 
 ## Marking
 
-- High-Performance Computing (Imperial Aeronautics, UG Yr 3-4 + PG, 2020)
+- High-Performance Computing (Imperial Aeronautics, UG Yr 3-4 + PG, 2020): Optional module for UG and PG in Aeronautics
 
 ## Project Supervision
 
-- Final Year Project / Individual Project / Major Research Project (Imperial Aeronautics, UG Yr 4 + PG, 2018-2021 and 2025)
+- Final Year Project / Individual Research Project / Major Individual Research Project (Imperial Aeronautics, UG Yr 4 + PG, 2018-2021 and 2025)
   - Co-supervised 8+ students
   - Sole-supervised 1 student in 2025
 - Individual Project (Imperial Mathematics (Stat), PG, 2025)
@@ -37,7 +38,7 @@ nav_order: 3
 ## Summer Research Projects
 
 - Summer Research in Maths (SRIM, Cambridge Mathematics, 2022-2024)
-  - 3 students over the course of three years
+  - Sole-supervised 3 students over the course of three years
 - Undergraduate Research Opportunity Programme (UROP, 2025)
-  - 2 students
+  - Leading supervisor for 2 students
 
