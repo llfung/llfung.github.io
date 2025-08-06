@@ -22,6 +22,7 @@
     {
       "name": "Department of Aeronautics, Imperial College London",
       "position": "Imperial College Research Fellow",
+      "location": "London, UK",
       "startDate": "2024-10-01",
       "endDate": "2028-09-30",
       "summary": "Flagship early-career research fellowship of Imperial College London. Also part of the I-X Centre for AI in Science",
@@ -30,6 +31,7 @@
     {
       "name": "Alan Turing Institute",
       "position": "Research Associate",
+      "location": "London, UK",
       "startDate": "2024-04-01",
       "endDate": "2024-09-30",
       "url": "https://www.turing.ac.uk/research/research-projects/adjoint-accelerated-programmable-inference-large-pdes",
@@ -39,6 +41,7 @@
     {
       "name": "Peterhouse, University of Cambridge",
       "position": "Research Fellow",
+      "location": "Cambridge, UK",
       "startDate": "2021-10-01",
       "endDate": "2024-09-30",
       "summary": "A 3-years Junior Research Fellowship at Peterhouse, University of Cambridge. This highly competitive fellowship is awarded to early-career researchers in any field of study.",
