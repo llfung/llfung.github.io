@@ -405,10 +405,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-organising-a-workshop-on-symbolic-model-discovery-on-22-23-sept-2025-at-the-ix-check-out-the-details-and-register-for-the-workshop-on-www-symbolicmodel-org",
-          title: 'I am organising a workshop on symbolic model discovery on 22-23 Sept, 2025...',
+            },},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "news-odr-bindy-release",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-odr-bindy-release",
           title: 'ODR-BINDy release!',
           description: "",
           section: "News",handler: () => {
