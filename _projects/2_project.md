@@ -14,6 +14,7 @@ Our first work {% cite Fung2025 %} on BINDy has illustrated the importance and r
 
 Our second go at the framework {% cite Fung2025a %} focus more in cases when measurement noise is large enough to distort noise propagation through the nonlinear library. We showed that in those cases, the noise model should include both noise in measurments and noise in the model arising from numerical trucation or stohcasticity. By explioting information from neighbouring time-points and through nonlinear optimisation, our [ODR-BINDy algorithm](https://github.com/llfung/ODR-BINDy/) can denoise the data, perform parameter estimation and select the most parsimonious model at the same time. In our benchmark, ODR-BINDy outperforms all existing methods in noise robustness and data requirements.
 
-![Success Rate of recovering Lorenz63 from data](../assets/img/Lorenz_Success.svg)
+{% include figure.liquid loading="eager" path="assets/img/Lorenz_Success.svg" title="Lorenz63 Success Rate" class="img-fluid rounded z-depth-1" %}
+Success Rate of recovering Lorenz63 from data using different SINDy derivatives
 
 Want to give our algorithm a try? Why not check out [our MATLAB applet designed for 2D/3D time-series data](https://github.com/llfung/ODR-BINDy-MATLABApp)?
