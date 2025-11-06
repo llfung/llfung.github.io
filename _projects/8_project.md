@@ -5,6 +5,7 @@ description: We found a singularity that focuses long, slender particle when the
 img: assets/img/publication_preview/Fung2024.jpg
 importance: 2
 category: Bio-Active Fluids
+related_publications: true
 ---
 
 Phytoplankton plays a vital role in the removal of CO$_2$ from the atmosphere, as they perform photosynthesis on the ocean surface and then sink to the bottom. This process drives almost half of the carbon sequestration (the process of removing carbon from the atmosphere) on Earth. It is known that their sizes and shapes affect their average sinking speed and how they are mixed by the flow in the ocean, but little is known about the underlying mechanism from a fluid dynamics perspective. Furthermore, depending on the particle shape, it is known that some species may tend to aggregate, which in turn can speed up their collective sinking. 
