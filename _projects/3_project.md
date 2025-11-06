@@ -2,7 +2,7 @@
 layout: page
 title: NN vs FEM
 description: "Which method is better at solving PDEs? To understand that, We need a deep dive into representation theory."
-img: 
+img: assets/img/NNvsFEM.png
 importance: 3
 category: ML
 ---
