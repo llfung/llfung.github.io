@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "Welcome to my new blog!",
         
-        description: "There is a time for everything - a time to be born and a time to die... so are my ideas",
+        description: "They say there is a time for everything - a time to be born and a time to die. I think my ideas should also have a place to live, or die.",
         section: "Posts",
         handler: () => {
           
