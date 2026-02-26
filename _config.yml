@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: pre judice # blog_name will be displayed in your blog page
-blog_description: All my thoughts, good or bad, to be judged, before being butchered by reviewer 2.  # blog_description will be displayed in your blog page
+blog_name: sub judice # blog_name will be displayed in your blog page
+blog_description: All my thoughts, good or bad, shared before being butchered by reviewer 2.  # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
