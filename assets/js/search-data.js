@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-welcome-to-my-new-blog",
+        },{id: "post-physics-informed-neural-networks-vs-finite-elements-ii-theoretical-connection-between-fem-and-single-layer-perceptron",
+        
+          title: "Physics-Informed Neural Networks vs Finite Elements II - Theoretical connection between FEM and...",
+        
+        description: "The shared origin of PINN and FEM",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NNvsFEM-2/";
+          
+        },
+      },{id: "post-physics-informed-neural-networks-vs-finite-elements-i-a-short-intro-to-pinn",
+        
+          title: "Physics-Informed Neural Networks vs Finite Elements I - A short intro to PINN...",
+        
+        description: "Are they nemesis or family?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NNvsFEM-1/";
+          
+        },
+      },{id: "post-welcome-to-my-new-blog",
         
           title: "Welcome to my new blog!",
         
