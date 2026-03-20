@@ -117,9 +117,9 @@ ninja.data = [{
           description: "Which method is better at solving PDEs? To understand that, We need a deep dive into representation theory.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-recovering-hidden-states-by-esn-bindy",
-          title: 'Recovering Hidden States by ESN + BINDy',
-          description: "Classical BINDy/SINDy require observation of all states. Can we improve upon that?",
+            },},{id: "projects-learning-amp-forecasting-satellite-orbits",
+          title: 'Learning &amp;amp; Forecasting Satellite Orbits',
+          description: "Applying ODR-BINDy to learn the control laws that keeps satelites in orbit",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-continuum-modelling-of-active-brownian-particles-abp",
