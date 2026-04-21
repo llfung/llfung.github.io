@@ -87,28 +87,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-for-the-coming-academic-year-i-am-going-to-organise-the-aerodynamics-and-control-seminar-series-at-the-department-of-aeronautics-of-imperial-college-london-do-get-in-touch-see-orcid-if-you-re-interested-in-coming-to-give-a-talk-on-relevant-subjects",
-          title: 'For the coming academic year, I am going to organise the Aerodynamics and...',
+            },},{id: "news-i-am-now-the-organiser-of-the-aerodynamics-and-control-seminar-series-at-the-department-of-aeronautics-of-imperial-college-london-do-get-in-touch-see-orcid-if-you-re-interested-in-coming-to-give-a-talk-on-relevant-subjects",
+          title: 'I am now the organiser of the Aerodynamics and Control Seminar series at...',
           description: "",
-          section: "News",},{id: "news-announcement-4",
-          title: 'Announcement_4',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-the-workshop-on-symbolic-model-discovery-has-concluded-on-23-sept-2025-check-out-the-workshop-recording-the-tutorial-exercise-on-www-symbolicmodel-org",
+          section: "News",},{id: "news-the-workshop-on-symbolic-model-discovery-has-concluded-on-23-sept-2025-check-out-the-workshop-recording-the-tutorial-exercise-on-www-symbolicmodel-org",
           title: 'The workshop on symbolic model discovery has concluded on 23 Sept, 2025. Check...',
           description: "",
-          section: "News",},{id: "news-announcement-6",
-          title: 'Announcement_6',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
-            },},{id: "news-announcement-7",
-          title: 'Announcement_7',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "news-i-ll-be-giving-a-talk-on-matching-model-to-data-data-assimilation-and-model-discovery-in-physical-systems-at-the-data-driven-methods-seminar-series-at-u-of-manchester-on-24-april-2026-at-10am-at-nancy-rothwell-4a-004-i-will-also-be-around-manchester-between-22nd-24th-april-come-say-hi",
+          section: "News",},{id: "news-i-ll-be-giving-a-talk-on-matching-model-to-data-data-assimilation-and-model-discovery-in-physical-systems-at-the-data-driven-methods-seminar-series-at-u-of-manchester-on-24-april-2026-at-10am-at-nancy-rothwell-4a-004-i-will-also-be-around-manchester-between-22nd-24th-april-come-say-hi",
           title: 'I’ll be giving a talk on “Matching model to data: data assimilation and...',
           description: "",
           section: "News",},{id: "projects-adjoint-accelerated-programmable-inference-for-large-pdes",
