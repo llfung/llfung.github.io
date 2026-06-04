@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-pinn-vs-fem-ii-theoretical-connection-between-finite-elements-and-single-layer-perceptron",
+        },{id: "post-pinn-vs-fem-iii-numerical-comparison-between-finite-elements-and-single-layer-perceptron",
+        
+          title: "PINN vs FEM III - Numerical Comparison between Finite Elements and Single-Layer Perceptron...",
+        
+        description: "The Numerical Manifestations of Physics-Informed Neural Networks and Finite Elements Methods",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NNvsFEM-3/";
+          
+        },
+      },{id: "post-pinn-vs-fem-ii-theoretical-connection-between-finite-elements-and-single-layer-perceptron",
         
           title: "PINN vs FEM II - Theoretical connection between Finite Elements and Single-Layer Perceptron...",
         
